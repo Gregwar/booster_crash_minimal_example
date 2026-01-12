@@ -17,3 +17,16 @@ cmake ..
 make
 ```
 
+And then run:
+
+```
+./main
+```
+
+The robot should go to 0 position with a soft kp (10).
+
+## Crash
+
+The crash happens after a while (usually a few minutes). The booster-daemon crashes and the robot
+
+<video src="crash.mp4" width="180" />
