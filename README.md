@@ -1,5 +1,7 @@
 # Booster K1 crash minimal example
 
+Note: this example sends commands with 2ms sleep. The same problem was observed with larger sleep time but with lower probability.
+
 ## Install Booster SDK
 
 Clone the following repository: https://github.com/BoosterRobotics/booster_robotics_sdk/
